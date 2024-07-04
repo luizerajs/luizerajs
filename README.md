@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Backend with NodeJS
 - 📫 How to reach me MG/Brazil
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 luizerajs/luizerajs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
